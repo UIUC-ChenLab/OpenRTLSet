@@ -1,0 +1,1366 @@
+[
+    {
+        "date_range": "2024-06-15..2024-06-30",
+        "file_name": "verilog_repositories_240630.json"
+    },
+    {
+        "date_range": "2024-05-31..2024-06-15",
+        "file_name": "verilog_repositories_240615.json"
+    },
+    {
+        "date_range": "2024-05-16..2024-05-31",
+        "file_name": "verilog_repositories_240531.json"
+    },
+    {
+        "date_range": "2024-05-01..2024-05-16",
+        "file_name": "verilog_repositories_240516.json"
+    },
+    {
+        "date_range": "2024-04-16..2024-05-01",
+        "file_name": "verilog_repositories_240501.json"
+    },
+    {
+        "date_range": "2024-04-01..2024-04-16",
+        "file_name": "verilog_repositories_240416.json"
+    },
+    {
+        "date_range": "2024-03-17..2024-04-01",
+        "file_name": "verilog_repositories_240401.json"
+    },
+    {
+        "date_range": "2024-03-02..2024-03-17",
+        "file_name": "verilog_repositories_240317.json"
+    },
+    {
+        "date_range": "2024-02-16..2024-03-02",
+        "file_name": "verilog_repositories_240302.json"
+    },
+    {
+        "date_range": "2024-02-01..2024-02-16",
+        "file_name": "verilog_repositories_240216.json"
+    },
+    {
+        "date_range": "2024-01-17..2024-02-01",
+        "file_name": "verilog_repositories_240201.json"
+    },
+    {
+        "date_range": "2024-01-02..2024-01-17",
+        "file_name": "verilog_repositories_240117.json"
+    },
+    {
+        "date_range": "2023-12-18..2024-01-02",
+        "file_name": "verilog_repositories_240102.json"
+    },
+    {
+        "date_range": "2023-12-03..2023-12-18",
+        "file_name": "verilog_repositories_231218.json"
+    },
+    {
+        "date_range": "2023-11-18..2023-12-03",
+        "file_name": "verilog_repositories_231203.json"
+    },
+    {
+        "date_range": "2023-11-03..2023-11-18",
+        "file_name": "verilog_repositories_231118.json"
+    },
+    {
+        "date_range": "2023-10-19..2023-11-03",
+        "file_name": "verilog_repositories_231103.json"
+    },
+    {
+        "date_range": "2023-10-04..2023-10-19",
+        "file_name": "verilog_repositories_231019.json"
+    },
+    {
+        "date_range": "2023-09-19..2023-10-04",
+        "file_name": "verilog_repositories_231004.json"
+    },
+    {
+        "date_range": "2023-09-04..2023-09-19",
+        "file_name": "verilog_repositories_230919.json"
+    },
+    {
+        "date_range": "2023-08-20..2023-09-04",
+        "file_name": "verilog_repositories_230904.json"
+    },
+    {
+        "date_range": "2023-08-05..2023-08-20",
+        "file_name": "verilog_repositories_230820.json"
+    },
+    {
+        "date_range": "2023-07-21..2023-08-05",
+        "file_name": "verilog_repositories_230805.json"
+    },
+    {
+        "date_range": "2023-07-06..2023-07-21",
+        "file_name": "verilog_repositories_230721.json"
+    },
+    {
+        "date_range": "2023-06-21..2023-07-06",
+        "file_name": "verilog_repositories_230706.json"
+    },
+    {
+        "date_range": "2023-06-06..2023-06-21",
+        "file_name": "verilog_repositories_230621.json"
+    },
+    {
+        "date_range": "2023-05-22..2023-06-06",
+        "file_name": "verilog_repositories_230606.json"
+    },
+    {
+        "date_range": "2023-05-07..2023-05-22",
+        "file_name": "verilog_repositories_230522.json"
+    },
+    {
+        "date_range": "2023-04-22..2023-05-07",
+        "file_name": "verilog_repositories_230507.json"
+    },
+    {
+        "date_range": "2023-04-07..2023-04-22",
+        "file_name": "verilog_repositories_230422.json"
+    },
+    {
+        "date_range": "2023-03-23..2023-04-07",
+        "file_name": "verilog_repositories_230407.json"
+    },
+    {
+        "date_range": "2023-03-08..2023-03-23",
+        "file_name": "verilog_repositories_230323.json"
+    },
+    {
+        "date_range": "2023-02-21..2023-03-08",
+        "file_name": "verilog_repositories_230308.json"
+    },
+    {
+        "date_range": "2023-02-06..2023-02-21",
+        "file_name": "verilog_repositories_230221.json"
+    },
+    {
+        "date_range": "2023-01-22..2023-02-06",
+        "file_name": "verilog_repositories_230206.json"
+    },
+    {
+        "date_range": "2023-01-07..2023-01-22",
+        "file_name": "verilog_repositories_230122.json"
+    },
+    {
+        "date_range": "2022-12-23..2023-01-07",
+        "file_name": "verilog_repositories_230107.json"
+    },
+    {
+        "date_range": "2022-12-08..2022-12-23",
+        "file_name": "verilog_repositories_221223.json"
+    },
+    {
+        "date_range": "2022-11-23..2022-12-08",
+        "file_name": "verilog_repositories_221208.json"
+    },
+    {
+        "date_range": "2022-11-08..2022-11-23",
+        "file_name": "verilog_repositories_221123.json"
+    },
+    {
+        "date_range": "2022-10-24..2022-11-08",
+        "file_name": "verilog_repositories_221108.json"
+    },
+    {
+        "date_range": "2022-10-09..2022-10-24",
+        "file_name": "verilog_repositories_221024.json"
+    },
+    {
+        "date_range": "2022-09-24..2022-10-09",
+        "file_name": "verilog_repositories_221009.json"
+    },
+    {
+        "date_range": "2022-09-09..2022-09-24",
+        "file_name": "verilog_repositories_220924.json"
+    },
+    {
+        "date_range": "2022-08-25..2022-09-09",
+        "file_name": "verilog_repositories_220909.json"
+    },
+    {
+        "date_range": "2022-08-10..2022-08-25",
+        "file_name": "verilog_repositories_220825.json"
+    },
+    {
+        "date_range": "2022-07-26..2022-08-10",
+        "file_name": "verilog_repositories_220810.json"
+    },
+    {
+        "date_range": "2022-07-11..2022-07-26",
+        "file_name": "verilog_repositories_220726.json"
+    },
+    {
+        "date_range": "2022-06-26..2022-07-11",
+        "file_name": "verilog_repositories_220711.json"
+    },
+    {
+        "date_range": "2022-06-11..2022-06-26",
+        "file_name": "verilog_repositories_220626.json"
+    },
+    {
+        "date_range": "2022-05-27..2022-06-11",
+        "file_name": "verilog_repositories_220611.json"
+    },
+    {
+        "date_range": "2022-05-12..2022-05-27",
+        "file_name": "verilog_repositories_220527.json"
+    },
+    {
+        "date_range": "2022-04-27..2022-05-12",
+        "file_name": "verilog_repositories_220512.json"
+    },
+    {
+        "date_range": "2022-04-12..2022-04-27",
+        "file_name": "verilog_repositories_220427.json"
+    },
+    {
+        "date_range": "2022-03-28..2022-04-12",
+        "file_name": "verilog_repositories_220412.json"
+    },
+    {
+        "date_range": "2022-03-13..2022-03-28",
+        "file_name": "verilog_repositories_220328.json"
+    },
+    {
+        "date_range": "2022-02-26..2022-03-13",
+        "file_name": "verilog_repositories_220313.json"
+    },
+    {
+        "date_range": "2022-02-11..2022-02-26",
+        "file_name": "verilog_repositories_220226.json"
+    },
+    {
+        "date_range": "2022-01-27..2022-02-11",
+        "file_name": "verilog_repositories_220211.json"
+    },
+    {
+        "date_range": "2022-01-12..2022-01-27",
+        "file_name": "verilog_repositories_220127.json"
+    },
+    {
+        "date_range": "2021-12-28..2022-01-12",
+        "file_name": "verilog_repositories_220112.json"
+    },
+    {
+        "date_range": "2021-12-13..2021-12-28",
+        "file_name": "verilog_repositories_211228.json"
+    },
+    {
+        "date_range": "2021-11-28..2021-12-13",
+        "file_name": "verilog_repositories_211213.json"
+    },
+    {
+        "date_range": "2021-11-13..2021-11-28",
+        "file_name": "verilog_repositories_211128.json"
+    },
+    {
+        "date_range": "2021-10-29..2021-11-13",
+        "file_name": "verilog_repositories_211113.json"
+    },
+    {
+        "date_range": "2021-10-14..2021-10-29",
+        "file_name": "verilog_repositories_211029.json"
+    },
+    {
+        "date_range": "2021-09-29..2021-10-14",
+        "file_name": "verilog_repositories_211014.json"
+    },
+    {
+        "date_range": "2021-09-14..2021-09-29",
+        "file_name": "verilog_repositories_210929.json"
+    },
+    {
+        "date_range": "2021-08-30..2021-09-14",
+        "file_name": "verilog_repositories_210914.json"
+    },
+    {
+        "date_range": "2021-08-15..2021-08-30",
+        "file_name": "verilog_repositories_210830.json"
+    },
+    {
+        "date_range": "2021-07-31..2021-08-15",
+        "file_name": "verilog_repositories_210815.json"
+    },
+    {
+        "date_range": "2021-07-16..2021-07-31",
+        "file_name": "verilog_repositories_210731.json"
+    },
+    {
+        "date_range": "2021-07-01..2021-07-16",
+        "file_name": "verilog_repositories_210716.json"
+    },
+    {
+        "date_range": "2021-06-16..2021-07-01",
+        "file_name": "verilog_repositories_210701.json"
+    },
+    {
+        "date_range": "2021-06-01..2021-06-16",
+        "file_name": "verilog_repositories_210616.json"
+    },
+    {
+        "date_range": "2021-05-17..2021-06-01",
+        "file_name": "verilog_repositories_210601.json"
+    },
+    {
+        "date_range": "2021-05-02..2021-05-17",
+        "file_name": "verilog_repositories_210517.json"
+    },
+    {
+        "date_range": "2021-04-17..2021-05-02",
+        "file_name": "verilog_repositories_210502.json"
+    },
+    {
+        "date_range": "2021-04-02..2021-04-17",
+        "file_name": "verilog_repositories_210417.json"
+    },
+    {
+        "date_range": "2021-03-18..2021-04-02",
+        "file_name": "verilog_repositories_210402.json"
+    },
+    {
+        "date_range": "2021-03-03..2021-03-18",
+        "file_name": "verilog_repositories_210318.json"
+    },
+    {
+        "date_range": "2021-02-16..2021-03-03",
+        "file_name": "verilog_repositories_210303.json"
+    },
+    {
+        "date_range": "2021-02-01..2021-02-16",
+        "file_name": "verilog_repositories_210216.json"
+    },
+    {
+        "date_range": "2021-01-17..2021-02-01",
+        "file_name": "verilog_repositories_210201.json"
+    },
+    {
+        "date_range": "2021-01-02..2021-01-17",
+        "file_name": "verilog_repositories_210117.json"
+    },
+    {
+        "date_range": "2020-12-18..2021-01-02",
+        "file_name": "verilog_repositories_210102.json"
+    },
+    {
+        "date_range": "2020-12-03..2020-12-18",
+        "file_name": "verilog_repositories_201218.json"
+    },
+    {
+        "date_range": "2020-11-18..2020-12-03",
+        "file_name": "verilog_repositories_201203.json"
+    },
+    {
+        "date_range": "2020-11-03..2020-11-18",
+        "file_name": "verilog_repositories_201118.json"
+    },
+    {
+        "date_range": "2020-10-19..2020-11-03",
+        "file_name": "verilog_repositories_201103.json"
+    },
+    {
+        "date_range": "2020-10-04..2020-10-19",
+        "file_name": "verilog_repositories_201019.json"
+    },
+    {
+        "date_range": "2020-09-19..2020-10-04",
+        "file_name": "verilog_repositories_201004.json"
+    },
+    {
+        "date_range": "2020-09-04..2020-09-19",
+        "file_name": "verilog_repositories_200919.json"
+    },
+    {
+        "date_range": "2020-08-20..2020-09-04",
+        "file_name": "verilog_repositories_200904.json"
+    },
+    {
+        "date_range": "2020-08-05..2020-08-20",
+        "file_name": "verilog_repositories_200820.json"
+    },
+    {
+        "date_range": "2020-07-21..2020-08-05",
+        "file_name": "verilog_repositories_200805.json"
+    },
+    {
+        "date_range": "2020-07-06..2020-07-21",
+        "file_name": "verilog_repositories_200721.json"
+    },
+    {
+        "date_range": "2020-06-21..2020-07-06",
+        "file_name": "verilog_repositories_200706.json"
+    },
+    {
+        "date_range": "2020-06-06..2020-06-21",
+        "file_name": "verilog_repositories_200621.json"
+    },
+    {
+        "date_range": "2020-05-22..2020-06-06",
+        "file_name": "verilog_repositories_200606.json"
+    },
+    {
+        "date_range": "2020-05-07..2020-05-22",
+        "file_name": "verilog_repositories_200522.json"
+    },
+    {
+        "date_range": "2020-04-22..2020-05-07",
+        "file_name": "verilog_repositories_200507.json"
+    },
+    {
+        "date_range": "2020-04-07..2020-04-22",
+        "file_name": "verilog_repositories_200422.json"
+    },
+    {
+        "date_range": "2020-03-23..2020-04-07",
+        "file_name": "verilog_repositories_200407.json"
+    },
+    {
+        "date_range": "2020-03-08..2020-03-23",
+        "file_name": "verilog_repositories_200323.json"
+    },
+    {
+        "date_range": "2020-02-22..2020-03-08",
+        "file_name": "verilog_repositories_200308.json"
+    },
+    {
+        "date_range": "2020-02-07..2020-02-22",
+        "file_name": "verilog_repositories_200222.json"
+    },
+    {
+        "date_range": "2020-01-23..2020-02-07",
+        "file_name": "verilog_repositories_200207.json"
+    },
+    {
+        "date_range": "2020-01-08..2020-01-23",
+        "file_name": "verilog_repositories_200123.json"
+    },
+    {
+        "date_range": "2019-12-24..2020-01-08",
+        "file_name": "verilog_repositories_200108.json"
+    },
+    {
+        "date_range": "2019-12-09..2019-12-24",
+        "file_name": "verilog_repositories_191224.json"
+    },
+    {
+        "date_range": "2019-11-24..2019-12-09",
+        "file_name": "verilog_repositories_191209.json"
+    },
+    {
+        "date_range": "2019-11-09..2019-11-24",
+        "file_name": "verilog_repositories_191124.json"
+    },
+    {
+        "date_range": "2019-10-25..2019-11-09",
+        "file_name": "verilog_repositories_191109.json"
+    },
+    {
+        "date_range": "2019-10-10..2019-10-25",
+        "file_name": "verilog_repositories_191025.json"
+    },
+    {
+        "date_range": "2019-09-25..2019-10-10",
+        "file_name": "verilog_repositories_191010.json"
+    },
+    {
+        "date_range": "2019-09-10..2019-09-25",
+        "file_name": "verilog_repositories_190925.json"
+    },
+    {
+        "date_range": "2019-08-26..2019-09-10",
+        "file_name": "verilog_repositories_190910.json"
+    },
+    {
+        "date_range": "2019-08-11..2019-08-26",
+        "file_name": "verilog_repositories_190826.json"
+    },
+    {
+        "date_range": "2019-07-27..2019-08-11",
+        "file_name": "verilog_repositories_190811.json"
+    },
+    {
+        "date_range": "2019-07-12..2019-07-27",
+        "file_name": "verilog_repositories_190727.json"
+    },
+    {
+        "date_range": "2019-06-27..2019-07-12",
+        "file_name": "verilog_repositories_190712.json"
+    },
+    {
+        "date_range": "2019-06-12..2019-06-27",
+        "file_name": "verilog_repositories_190627.json"
+    },
+    {
+        "date_range": "2019-05-28..2019-06-12",
+        "file_name": "verilog_repositories_190612.json"
+    },
+    {
+        "date_range": "2019-05-13..2019-05-28",
+        "file_name": "verilog_repositories_190528.json"
+    },
+    {
+        "date_range": "2019-04-28..2019-05-13",
+        "file_name": "verilog_repositories_190513.json"
+    },
+    {
+        "date_range": "2019-04-13..2019-04-28",
+        "file_name": "verilog_repositories_190428.json"
+    },
+    {
+        "date_range": "2019-03-29..2019-04-13",
+        "file_name": "verilog_repositories_190413.json"
+    },
+    {
+        "date_range": "2019-03-14..2019-03-29",
+        "file_name": "verilog_repositories_190329.json"
+    },
+    {
+        "date_range": "2019-02-27..2019-03-14",
+        "file_name": "verilog_repositories_190314.json"
+    },
+    {
+        "date_range": "2019-02-12..2019-02-27",
+        "file_name": "verilog_repositories_190227.json"
+    },
+    {
+        "date_range": "2019-01-28..2019-02-12",
+        "file_name": "verilog_repositories_190212.json"
+    },
+    {
+        "date_range": "2019-01-13..2019-01-28",
+        "file_name": "verilog_repositories_190128.json"
+    },
+    {
+        "date_range": "2018-12-29..2019-01-13",
+        "file_name": "verilog_repositories_190113.json"
+    },
+    {
+        "date_range": "2018-12-14..2018-12-29",
+        "file_name": "verilog_repositories_181229.json"
+    },
+    {
+        "date_range": "2018-11-29..2018-12-14",
+        "file_name": "verilog_repositories_181214.json"
+    },
+    {
+        "date_range": "2018-11-14..2018-11-29",
+        "file_name": "verilog_repositories_181129.json"
+    },
+    {
+        "date_range": "2018-10-30..2018-11-14",
+        "file_name": "verilog_repositories_181114.json"
+    },
+    {
+        "date_range": "2018-10-15..2018-10-30",
+        "file_name": "verilog_repositories_181030.json"
+    },
+    {
+        "date_range": "2018-09-30..2018-10-15",
+        "file_name": "verilog_repositories_181015.json"
+    },
+    {
+        "date_range": "2018-09-15..2018-09-30",
+        "file_name": "verilog_repositories_180930.json"
+    },
+    {
+        "date_range": "2018-08-31..2018-09-15",
+        "file_name": "verilog_repositories_180915.json"
+    },
+    {
+        "date_range": "2018-08-16..2018-08-31",
+        "file_name": "verilog_repositories_180831.json"
+    },
+    {
+        "date_range": "2018-08-01..2018-08-16",
+        "file_name": "verilog_repositories_180816.json"
+    },
+    {
+        "date_range": "2018-07-17..2018-08-01",
+        "file_name": "verilog_repositories_180801.json"
+    },
+    {
+        "date_range": "2018-07-02..2018-07-17",
+        "file_name": "verilog_repositories_180717.json"
+    },
+    {
+        "date_range": "2018-06-17..2018-07-02",
+        "file_name": "verilog_repositories_180702.json"
+    },
+    {
+        "date_range": "2018-06-02..2018-06-17",
+        "file_name": "verilog_repositories_180617.json"
+    },
+    {
+        "date_range": "2018-05-18..2018-06-02",
+        "file_name": "verilog_repositories_180602.json"
+    },
+    {
+        "date_range": "2018-05-03..2018-05-18",
+        "file_name": "verilog_repositories_180518.json"
+    },
+    {
+        "date_range": "2018-04-18..2018-05-03",
+        "file_name": "verilog_repositories_180503.json"
+    },
+    {
+        "date_range": "2018-04-03..2018-04-18",
+        "file_name": "verilog_repositories_180418.json"
+    },
+    {
+        "date_range": "2018-03-19..2018-04-03",
+        "file_name": "verilog_repositories_180403.json"
+    },
+    {
+        "date_range": "2018-03-04..2018-03-19",
+        "file_name": "verilog_repositories_180319.json"
+    },
+    {
+        "date_range": "2018-02-17..2018-03-04",
+        "file_name": "verilog_repositories_180304.json"
+    },
+    {
+        "date_range": "2018-02-02..2018-02-17",
+        "file_name": "verilog_repositories_180217.json"
+    },
+    {
+        "date_range": "2018-01-18..2018-02-02",
+        "file_name": "verilog_repositories_180202.json"
+    },
+    {
+        "date_range": "2018-01-03..2018-01-18",
+        "file_name": "verilog_repositories_180118.json"
+    },
+    {
+        "date_range": "2017-12-19..2018-01-03",
+        "file_name": "verilog_repositories_180103.json"
+    },
+    {
+        "date_range": "2017-12-04..2017-12-19",
+        "file_name": "verilog_repositories_171219.json"
+    },
+    {
+        "date_range": "2017-11-19..2017-12-04",
+        "file_name": "verilog_repositories_171204.json"
+    },
+    {
+        "date_range": "2017-11-04..2017-11-19",
+        "file_name": "verilog_repositories_171119.json"
+    },
+    {
+        "date_range": "2017-10-20..2017-11-04",
+        "file_name": "verilog_repositories_171104.json"
+    },
+    {
+        "date_range": "2017-10-05..2017-10-20",
+        "file_name": "verilog_repositories_171020.json"
+    },
+    {
+        "date_range": "2017-09-20..2017-10-05",
+        "file_name": "verilog_repositories_171005.json"
+    },
+    {
+        "date_range": "2017-09-05..2017-09-20",
+        "file_name": "verilog_repositories_170920.json"
+    },
+    {
+        "date_range": "2017-08-21..2017-09-05",
+        "file_name": "verilog_repositories_170905.json"
+    },
+    {
+        "date_range": "2017-08-06..2017-08-21",
+        "file_name": "verilog_repositories_170821.json"
+    },
+    {
+        "date_range": "2017-07-22..2017-08-06",
+        "file_name": "verilog_repositories_170806.json"
+    },
+    {
+        "date_range": "2017-07-07..2017-07-22",
+        "file_name": "verilog_repositories_170722.json"
+    },
+    {
+        "date_range": "2017-06-22..2017-07-07",
+        "file_name": "verilog_repositories_170707.json"
+    },
+    {
+        "date_range": "2017-06-07..2017-06-22",
+        "file_name": "verilog_repositories_170622.json"
+    },
+    {
+        "date_range": "2017-05-23..2017-06-07",
+        "file_name": "verilog_repositories_170607.json"
+    },
+    {
+        "date_range": "2017-05-08..2017-05-23",
+        "file_name": "verilog_repositories_170523.json"
+    },
+    {
+        "date_range": "2017-04-23..2017-05-08",
+        "file_name": "verilog_repositories_170508.json"
+    },
+    {
+        "date_range": "2017-04-08..2017-04-23",
+        "file_name": "verilog_repositories_170423.json"
+    },
+    {
+        "date_range": "2017-03-24..2017-04-08",
+        "file_name": "verilog_repositories_170408.json"
+    },
+    {
+        "date_range": "2017-03-09..2017-03-24",
+        "file_name": "verilog_repositories_170324.json"
+    },
+    {
+        "date_range": "2017-02-22..2017-03-09",
+        "file_name": "verilog_repositories_170309.json"
+    },
+    {
+        "date_range": "2017-02-07..2017-02-22",
+        "file_name": "verilog_repositories_170222.json"
+    },
+    {
+        "date_range": "2017-01-23..2017-02-07",
+        "file_name": "verilog_repositories_170207.json"
+    },
+    {
+        "date_range": "2017-01-08..2017-01-23",
+        "file_name": "verilog_repositories_170123.json"
+    },
+    {
+        "date_range": "2016-12-24..2017-01-08",
+        "file_name": "verilog_repositories_170108.json"
+    },
+    {
+        "date_range": "2016-12-09..2016-12-24",
+        "file_name": "verilog_repositories_161224.json"
+    },
+    {
+        "date_range": "2016-11-24..2016-12-09",
+        "file_name": "verilog_repositories_161209.json"
+    },
+    {
+        "date_range": "2016-11-09..2016-11-24",
+        "file_name": "verilog_repositories_161124.json"
+    },
+    {
+        "date_range": "2016-10-25..2016-11-09",
+        "file_name": "verilog_repositories_161109.json"
+    },
+    {
+        "date_range": "2016-10-10..2016-10-25",
+        "file_name": "verilog_repositories_161025.json"
+    },
+    {
+        "date_range": "2016-09-25..2016-10-10",
+        "file_name": "verilog_repositories_161010.json"
+    },
+    {
+        "date_range": "2016-09-10..2016-09-25",
+        "file_name": "verilog_repositories_160925.json"
+    },
+    {
+        "date_range": "2016-08-26..2016-09-10",
+        "file_name": "verilog_repositories_160910.json"
+    },
+    {
+        "date_range": "2016-08-11..2016-08-26",
+        "file_name": "verilog_repositories_160826.json"
+    },
+    {
+        "date_range": "2016-07-27..2016-08-11",
+        "file_name": "verilog_repositories_160811.json"
+    },
+    {
+        "date_range": "2016-07-12..2016-07-27",
+        "file_name": "verilog_repositories_160727.json"
+    },
+    {
+        "date_range": "2016-06-27..2016-07-12",
+        "file_name": "verilog_repositories_160712.json"
+    },
+    {
+        "date_range": "2016-06-12..2016-06-27",
+        "file_name": "verilog_repositories_160627.json"
+    },
+    {
+        "date_range": "2016-05-28..2016-06-12",
+        "file_name": "verilog_repositories_160612.json"
+    },
+    {
+        "date_range": "2016-05-13..2016-05-28",
+        "file_name": "verilog_repositories_160528.json"
+    },
+    {
+        "date_range": "2016-04-28..2016-05-13",
+        "file_name": "verilog_repositories_160513.json"
+    },
+    {
+        "date_range": "2016-04-13..2016-04-28",
+        "file_name": "verilog_repositories_160428.json"
+    },
+    {
+        "date_range": "2016-03-29..2016-04-13",
+        "file_name": "verilog_repositories_160413.json"
+    },
+    {
+        "date_range": "2016-03-14..2016-03-29",
+        "file_name": "verilog_repositories_160329.json"
+    },
+    {
+        "date_range": "2016-02-28..2016-03-14",
+        "file_name": "verilog_repositories_160314.json"
+    },
+    {
+        "date_range": "2016-02-13..2016-02-28",
+        "file_name": "verilog_repositories_160228.json"
+    },
+    {
+        "date_range": "2016-01-29..2016-02-13",
+        "file_name": "verilog_repositories_160213.json"
+    },
+    {
+        "date_range": "2016-01-14..2016-01-29",
+        "file_name": "verilog_repositories_160129.json"
+    },
+    {
+        "date_range": "2015-12-30..2016-01-14",
+        "file_name": "verilog_repositories_160114.json"
+    },
+    {
+        "date_range": "2015-12-15..2015-12-30",
+        "file_name": "verilog_repositories_151230.json"
+    },
+    {
+        "date_range": "2015-11-30..2015-12-15",
+        "file_name": "verilog_repositories_151215.json"
+    },
+    {
+        "date_range": "2015-11-15..2015-11-30",
+        "file_name": "verilog_repositories_151130.json"
+    },
+    {
+        "date_range": "2015-10-31..2015-11-15",
+        "file_name": "verilog_repositories_151115.json"
+    },
+    {
+        "date_range": "2015-10-16..2015-10-31",
+        "file_name": "verilog_repositories_151031.json"
+    },
+    {
+        "date_range": "2015-10-01..2015-10-16",
+        "file_name": "verilog_repositories_151016.json"
+    },
+    {
+        "date_range": "2015-09-16..2015-10-01",
+        "file_name": "verilog_repositories_151001.json"
+    },
+    {
+        "date_range": "2015-09-01..2015-09-16",
+        "file_name": "verilog_repositories_150916.json"
+    },
+    {
+        "date_range": "2015-08-17..2015-09-01",
+        "file_name": "verilog_repositories_150901.json"
+    },
+    {
+        "date_range": "2015-08-02..2015-08-17",
+        "file_name": "verilog_repositories_150817.json"
+    },
+    {
+        "date_range": "2015-07-18..2015-08-02",
+        "file_name": "verilog_repositories_150802.json"
+    },
+    {
+        "date_range": "2015-07-03..2015-07-18",
+        "file_name": "verilog_repositories_150718.json"
+    },
+    {
+        "date_range": "2015-06-18..2015-07-03",
+        "file_name": "verilog_repositories_150703.json"
+    },
+    {
+        "date_range": "2015-06-03..2015-06-18",
+        "file_name": "verilog_repositories_150618.json"
+    },
+    {
+        "date_range": "2015-05-19..2015-06-03",
+        "file_name": "verilog_repositories_150603.json"
+    },
+    {
+        "date_range": "2015-05-04..2015-05-19",
+        "file_name": "verilog_repositories_150519.json"
+    },
+    {
+        "date_range": "2015-04-19..2015-05-04",
+        "file_name": "verilog_repositories_150504.json"
+    },
+    {
+        "date_range": "2015-04-04..2015-04-19",
+        "file_name": "verilog_repositories_150419.json"
+    },
+    {
+        "date_range": "2015-03-20..2015-04-04",
+        "file_name": "verilog_repositories_150404.json"
+    },
+    {
+        "date_range": "2015-03-05..2015-03-20",
+        "file_name": "verilog_repositories_150320.json"
+    },
+    {
+        "date_range": "2015-02-18..2015-03-05",
+        "file_name": "verilog_repositories_150305.json"
+    },
+    {
+        "date_range": "2015-02-03..2015-02-18",
+        "file_name": "verilog_repositories_150218.json"
+    },
+    {
+        "date_range": "2015-01-19..2015-02-03",
+        "file_name": "verilog_repositories_150203.json"
+    },
+    {
+        "date_range": "2015-01-04..2015-01-19",
+        "file_name": "verilog_repositories_150119.json"
+    },
+    {
+        "date_range": "2014-12-20..2015-01-04",
+        "file_name": "verilog_repositories_150104.json"
+    },
+    {
+        "date_range": "2014-12-05..2014-12-20",
+        "file_name": "verilog_repositories_141220.json"
+    },
+    {
+        "date_range": "2014-11-20..2014-12-05",
+        "file_name": "verilog_repositories_141205.json"
+    },
+    {
+        "date_range": "2014-11-05..2014-11-20",
+        "file_name": "verilog_repositories_141120.json"
+    },
+    {
+        "date_range": "2014-10-21..2014-11-05",
+        "file_name": "verilog_repositories_141105.json"
+    },
+    {
+        "date_range": "2014-10-06..2014-10-21",
+        "file_name": "verilog_repositories_141021.json"
+    },
+    {
+        "date_range": "2014-09-21..2014-10-06",
+        "file_name": "verilog_repositories_141006.json"
+    },
+    {
+        "date_range": "2014-09-06..2014-09-21",
+        "file_name": "verilog_repositories_140921.json"
+    },
+    {
+        "date_range": "2014-08-22..2014-09-06",
+        "file_name": "verilog_repositories_140906.json"
+    },
+    {
+        "date_range": "2014-08-07..2014-08-22",
+        "file_name": "verilog_repositories_140822.json"
+    },
+    {
+        "date_range": "2014-07-23..2014-08-07",
+        "file_name": "verilog_repositories_140807.json"
+    },
+    {
+        "date_range": "2014-07-08..2014-07-23",
+        "file_name": "verilog_repositories_140723.json"
+    },
+    {
+        "date_range": "2014-06-23..2014-07-08",
+        "file_name": "verilog_repositories_140708.json"
+    },
+    {
+        "date_range": "2014-06-08..2014-06-23",
+        "file_name": "verilog_repositories_140623.json"
+    },
+    {
+        "date_range": "2014-05-24..2014-06-08",
+        "file_name": "verilog_repositories_140608.json"
+    },
+    {
+        "date_range": "2014-05-09..2014-05-24",
+        "file_name": "verilog_repositories_140524.json"
+    },
+    {
+        "date_range": "2014-04-24..2014-05-09",
+        "file_name": "verilog_repositories_140509.json"
+    },
+    {
+        "date_range": "2014-04-09..2014-04-24",
+        "file_name": "verilog_repositories_140424.json"
+    },
+    {
+        "date_range": "2014-03-25..2014-04-09",
+        "file_name": "verilog_repositories_140409.json"
+    },
+    {
+        "date_range": "2014-03-10..2014-03-25",
+        "file_name": "verilog_repositories_140325.json"
+    },
+    {
+        "date_range": "2014-02-23..2014-03-10",
+        "file_name": "verilog_repositories_140310.json"
+    },
+    {
+        "date_range": "2014-02-08..2014-02-23",
+        "file_name": "verilog_repositories_140223.json"
+    },
+    {
+        "date_range": "2014-01-24..2014-02-08",
+        "file_name": "verilog_repositories_140208.json"
+    },
+    {
+        "date_range": "2014-01-09..2014-01-24",
+        "file_name": "verilog_repositories_140124.json"
+    },
+    {
+        "date_range": "2013-12-25..2014-01-09",
+        "file_name": "verilog_repositories_140109.json"
+    },
+    {
+        "date_range": "2013-12-10..2013-12-25",
+        "file_name": "verilog_repositories_131225.json"
+    },
+    {
+        "date_range": "2013-11-25..2013-12-10",
+        "file_name": "verilog_repositories_131210.json"
+    },
+    {
+        "date_range": "2013-11-10..2013-11-25",
+        "file_name": "verilog_repositories_131125.json"
+    },
+    {
+        "date_range": "2013-10-26..2013-11-10",
+        "file_name": "verilog_repositories_131110.json"
+    },
+    {
+        "date_range": "2013-10-11..2013-10-26",
+        "file_name": "verilog_repositories_131026.json"
+    },
+    {
+        "date_range": "2013-09-26..2013-10-11",
+        "file_name": "verilog_repositories_131011.json"
+    },
+    {
+        "date_range": "2013-09-11..2013-09-26",
+        "file_name": "verilog_repositories_130926.json"
+    },
+    {
+        "date_range": "2013-08-27..2013-09-11",
+        "file_name": "verilog_repositories_130911.json"
+    },
+    {
+        "date_range": "2013-08-12..2013-08-27",
+        "file_name": "verilog_repositories_130827.json"
+    },
+    {
+        "date_range": "2013-07-28..2013-08-12",
+        "file_name": "verilog_repositories_130812.json"
+    },
+    {
+        "date_range": "2013-07-13..2013-07-28",
+        "file_name": "verilog_repositories_130728.json"
+    },
+    {
+        "date_range": "2013-06-28..2013-07-13",
+        "file_name": "verilog_repositories_130713.json"
+    },
+    {
+        "date_range": "2013-06-13..2013-06-28",
+        "file_name": "verilog_repositories_130628.json"
+    },
+    {
+        "date_range": "2013-05-29..2013-06-13",
+        "file_name": "verilog_repositories_130613.json"
+    },
+    {
+        "date_range": "2013-05-14..2013-05-29",
+        "file_name": "verilog_repositories_130529.json"
+    },
+    {
+        "date_range": "2013-04-29..2013-05-14",
+        "file_name": "verilog_repositories_130514.json"
+    },
+    {
+        "date_range": "2013-04-14..2013-04-29",
+        "file_name": "verilog_repositories_130429.json"
+    },
+    {
+        "date_range": "2013-03-30..2013-04-14",
+        "file_name": "verilog_repositories_130414.json"
+    },
+    {
+        "date_range": "2013-03-15..2013-03-30",
+        "file_name": "verilog_repositories_130330.json"
+    },
+    {
+        "date_range": "2013-02-28..2013-03-15",
+        "file_name": "verilog_repositories_130315.json"
+    },
+    {
+        "date_range": "2013-02-13..2013-02-28",
+        "file_name": "verilog_repositories_130228.json"
+    },
+    {
+        "date_range": "2013-01-29..2013-02-13",
+        "file_name": "verilog_repositories_130213.json"
+    },
+    {
+        "date_range": "2013-01-14..2013-01-29",
+        "file_name": "verilog_repositories_130129.json"
+    },
+    {
+        "date_range": "2012-12-30..2013-01-14",
+        "file_name": "verilog_repositories_130114.json"
+    },
+    {
+        "date_range": "2012-12-15..2012-12-30",
+        "file_name": "verilog_repositories_121230.json"
+    },
+    {
+        "date_range": "2012-11-30..2012-12-15",
+        "file_name": "verilog_repositories_121215.json"
+    },
+    {
+        "date_range": "2012-11-15..2012-11-30",
+        "file_name": "verilog_repositories_121130.json"
+    },
+    {
+        "date_range": "2012-10-31..2012-11-15",
+        "file_name": "verilog_repositories_121115.json"
+    },
+    {
+        "date_range": "2012-10-16..2012-10-31",
+        "file_name": "verilog_repositories_121031.json"
+    },
+    {
+        "date_range": "2012-10-01..2012-10-16",
+        "file_name": "verilog_repositories_121016.json"
+    },
+    {
+        "date_range": "2012-09-16..2012-10-01",
+        "file_name": "verilog_repositories_121001.json"
+    },
+    {
+        "date_range": "2012-09-01..2012-09-16",
+        "file_name": "verilog_repositories_120916.json"
+    },
+    {
+        "date_range": "2012-08-17..2012-09-01",
+        "file_name": "verilog_repositories_120901.json"
+    },
+    {
+        "date_range": "2012-08-02..2012-08-17",
+        "file_name": "verilog_repositories_120817.json"
+    },
+    {
+        "date_range": "2012-07-18..2012-08-02",
+        "file_name": "verilog_repositories_120802.json"
+    },
+    {
+        "date_range": "2012-07-03..2012-07-18",
+        "file_name": "verilog_repositories_120718.json"
+    },
+    {
+        "date_range": "2012-06-18..2012-07-03",
+        "file_name": "verilog_repositories_120703.json"
+    },
+    {
+        "date_range": "2012-06-03..2012-06-18",
+        "file_name": "verilog_repositories_120618.json"
+    },
+    {
+        "date_range": "2012-05-19..2012-06-03",
+        "file_name": "verilog_repositories_120603.json"
+    },
+    {
+        "date_range": "2012-05-04..2012-05-19",
+        "file_name": "verilog_repositories_120519.json"
+    },
+    {
+        "date_range": "2012-04-19..2012-05-04",
+        "file_name": "verilog_repositories_120504.json"
+    },
+    {
+        "date_range": "2012-04-04..2012-04-19",
+        "file_name": "verilog_repositories_120419.json"
+    },
+    {
+        "date_range": "2012-03-20..2012-04-04",
+        "file_name": "verilog_repositories_120404.json"
+    },
+    {
+        "date_range": "2012-03-05..2012-03-20",
+        "file_name": "verilog_repositories_120320.json"
+    },
+    {
+        "date_range": "2012-02-19..2012-03-05",
+        "file_name": "verilog_repositories_120305.json"
+    },
+    {
+        "date_range": "2012-02-04..2012-02-19",
+        "file_name": "verilog_repositories_120219.json"
+    },
+    {
+        "date_range": "2012-01-20..2012-02-04",
+        "file_name": "verilog_repositories_120204.json"
+    },
+    {
+        "date_range": "2012-01-05..2012-01-20",
+        "file_name": "verilog_repositories_120120.json"
+    },
+    {
+        "date_range": "2011-12-21..2012-01-05",
+        "file_name": "verilog_repositories_120105.json"
+    },
+    {
+        "date_range": "2011-12-06..2011-12-21",
+        "file_name": "verilog_repositories_111221.json"
+    },
+    {
+        "date_range": "2011-11-21..2011-12-06",
+        "file_name": "verilog_repositories_111206.json"
+    },
+    {
+        "date_range": "2011-11-06..2011-11-21",
+        "file_name": "verilog_repositories_111121.json"
+    },
+    {
+        "date_range": "2011-10-22..2011-11-06",
+        "file_name": "verilog_repositories_111106.json"
+    },
+    {
+        "date_range": "2011-10-07..2011-10-22",
+        "file_name": "verilog_repositories_111022.json"
+    },
+    {
+        "date_range": "2011-09-22..2011-10-07",
+        "file_name": "verilog_repositories_111007.json"
+    },
+    {
+        "date_range": "2011-09-07..2011-09-22",
+        "file_name": "verilog_repositories_110922.json"
+    },
+    {
+        "date_range": "2011-08-23..2011-09-07",
+        "file_name": "verilog_repositories_110907.json"
+    },
+    {
+        "date_range": "2011-08-08..2011-08-23",
+        "file_name": "verilog_repositories_110823.json"
+    },
+    {
+        "date_range": "2011-07-24..2011-08-08",
+        "file_name": "verilog_repositories_110808.json"
+    },
+    {
+        "date_range": "2011-07-09..2011-07-24",
+        "file_name": "verilog_repositories_110724.json"
+    },
+    {
+        "date_range": "2011-06-24..2011-07-09",
+        "file_name": "verilog_repositories_110709.json"
+    },
+    {
+        "date_range": "2011-06-09..2011-06-24",
+        "file_name": "verilog_repositories_110624.json"
+    },
+    {
+        "date_range": "2011-05-25..2011-06-09",
+        "file_name": "verilog_repositories_110609.json"
+    },
+    {
+        "date_range": "2011-05-10..2011-05-25",
+        "file_name": "verilog_repositories_110525.json"
+    },
+    {
+        "date_range": "2011-04-25..2011-05-10",
+        "file_name": "verilog_repositories_110510.json"
+    },
+    {
+        "date_range": "2011-04-10..2011-04-25",
+        "file_name": "verilog_repositories_110425.json"
+    },
+    {
+        "date_range": "2011-03-26..2011-04-10",
+        "file_name": "verilog_repositories_110410.json"
+    },
+    {
+        "date_range": "2011-03-11..2011-03-26",
+        "file_name": "verilog_repositories_110326.json"
+    },
+    {
+        "date_range": "2011-02-24..2011-03-11",
+        "file_name": "verilog_repositories_110311.json"
+    },
+    {
+        "date_range": "2011-02-09..2011-02-24",
+        "file_name": "verilog_repositories_110224.json"
+    },
+    {
+        "date_range": "2011-01-25..2011-02-09",
+        "file_name": "verilog_repositories_110209.json"
+    },
+    {
+        "date_range": "2011-01-10..2011-01-25",
+        "file_name": "verilog_repositories_110125.json"
+    },
+    {
+        "date_range": "2010-12-26..2011-01-10",
+        "file_name": "verilog_repositories_110110.json"
+    },
+    {
+        "date_range": "2010-12-11..2010-12-26",
+        "file_name": "verilog_repositories_101226.json"
+    },
+    {
+        "date_range": "2010-11-26..2010-12-11",
+        "file_name": "verilog_repositories_101211.json"
+    },
+    {
+        "date_range": "2010-11-11..2010-11-26",
+        "file_name": "verilog_repositories_101126.json"
+    },
+    {
+        "date_range": "2010-10-27..2010-11-11",
+        "file_name": "verilog_repositories_101111.json"
+    },
+    {
+        "date_range": "2010-10-12..2010-10-27",
+        "file_name": "verilog_repositories_101027.json"
+    },
+    {
+        "date_range": "2010-09-27..2010-10-12",
+        "file_name": "verilog_repositories_101012.json"
+    },
+    {
+        "date_range": "2010-09-12..2010-09-27",
+        "file_name": "verilog_repositories_100927.json"
+    },
+    {
+        "date_range": "2010-08-28..2010-09-12",
+        "file_name": "verilog_repositories_100912.json"
+    },
+    {
+        "date_range": "2010-08-13..2010-08-28",
+        "file_name": "verilog_repositories_100828.json"
+    },
+    {
+        "date_range": "2010-07-29..2010-08-13",
+        "file_name": "verilog_repositories_100813.json"
+    },
+    {
+        "date_range": "2010-07-14..2010-07-29",
+        "file_name": "verilog_repositories_100729.json"
+    },
+    {
+        "date_range": "2010-06-29..2010-07-14",
+        "file_name": "verilog_repositories_100714.json"
+    }
+]

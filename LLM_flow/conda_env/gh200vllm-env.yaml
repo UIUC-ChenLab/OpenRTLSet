@@ -1,0 +1,11 @@
+name: gh200vllm
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+dependencies:
+  - python=3.11
+  - tqdm
+  - pip:
+      - argparse
+      - jsonlines
+      - openai==2.15.0
